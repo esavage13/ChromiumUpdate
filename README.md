@@ -1,4 +1,4 @@
-Chromium-Updated
+ChromiumUpdate
 ================
 
 Chromium Update sh script
